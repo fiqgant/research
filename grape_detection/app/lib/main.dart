@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('TfLite Flutter Helper',
+        title: Text('Grape Leaf Disease Identification',
             style: TextStyle(color: Colors.white)),
       ),
       body: Column(
